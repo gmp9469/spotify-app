@@ -4,11 +4,6 @@
 
 A web app that gives you info about your Spotify listening habits, recommends songs, and also tests your music knowledge!
 Please contact us with your spotify email, so that we can register you on the API developer server!
-## Deployed App
-https://whale-app-4h3br.ondigitalocean.app/
-
-## DockerHub Links
-https://hub.docker.com/r/emxyz/5-final-project-fivepeat-web
 
 ## Instructions to Run
 1. Clone the repository from Github
@@ -21,8 +16,4 @@ https://hub.docker.com/r/emxyz/5-final-project-fivepeat-web
 # Using Docker
 3. `docker-compose up —build`
 
-### Contributors
-Danica Jin - https://github.com/dj9771    
-Emma Zheng - https://github.com/emxyz   
-Gabriel Park - https://github.com/gmp9469    
-Megan Chen - https://github.com/meganchen99
+
